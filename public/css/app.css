@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+}
+
+.vert {
+    color : green;
+}
+
+.par1 {
+    background-color: rgba(192,91,87,255);
+    text-align: center;
+}
+
+.blanc {
+    color: white;
+}
+
+.list {
+    background-color: rgba(111,189,236,255);
+    margin-left: 10vw;
+    margin-right: 10vw;
+    padding-bottom: 25vw;
+}
+
+.big-li {
+    font-size: 20px;
+}
+
+.rouge {
+    color: rgba(192,91,87,255);;
+}
